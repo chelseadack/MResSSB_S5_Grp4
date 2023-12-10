@@ -26,10 +26,12 @@ In this ReadMe: deck set up, protocol overview, problems overcome, problems rema
 - Slot 5: P300 pipette tips
 - Slot 6: P300 pipette tips
 - Slot 7: P300 pipette tips
-- Slot 8: N/A
+- Slot 8: P300 pipette tips
 - Slot 9: P300 pipette tips
 - Slot 10: P300 pipette tips
 - Slot 11: USA Scientific 12 well reservoir (22 mL) for waste liquids
+  - A1-6: waste liquids
+  - A????: 22 mL PBS
 
 ## Protocol overview (16 samples): 
 Raw sample preparation:
@@ -58,8 +60,10 @@ ELISA:
 - Can’t fit deep well onto magnet – had to divide samples into 2x 300 µL.
 -	Avoid centrifuged pellet / beads when pipetting – changed z value.
 -	Liquid uptake not uniform – increased all z values, may not remove all liquid?
--	Magnet too strong, affects bead binding / elution – transferred off magnet for these.
+-	Magnet too strong, affects bead binding / elution – transferred off magnet for these steps.
 -	ELISA wash 5 min agitating – mixed lots instead.
+-	Waste liquid - distribute evenly between wells to avoid overflowing, pipette dispenses over top to avoid contamination.
+-	Large volume of PBS - due to restricted deck space had to put in 4x22 mL wells, for 3 washes it swaps well mid loop.
 
 ## Problems remaining:
 - Shaking steps (no shaker module, had manually move to shaker) – removed these.
