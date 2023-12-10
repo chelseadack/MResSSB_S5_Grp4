@@ -16,7 +16,7 @@ In this ReadMe: deck set up, protocol overview, problems overcome, problems rema
   - A5: 3.5 mL Ni-NTA elution buffer (50 mM NaPO4, 300 mM NaCl, 300 mM imidazole, pH 7.4)
   - A6: 8 mL ELISA coating solution (50 mM Na2CO3)
   - A7: 20 mL ELISA blocking buffer (PBS-T, 5% non-fat dry milk)
-  - A8: 260 mL ELISA PBS-T (Phosphate buffered saline-0.05% Tween 20 solution)
+  - A8: 87 mL ELISA PBS-T (Phosphate buffered saline-0.05% Tween 20 solution)
   - A9: 10 mL ELISA primary antibody (Anti-His-tag Mouse)
   - A10: 10 mL ELISA conjugated secondary antibody (Anti-Mouse)
   - A11: 10 mL ELISA PnPP (conjugated secondary antibody substrate)
